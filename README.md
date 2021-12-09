@@ -34,5 +34,7 @@ python3 train.py
 ```
 Sample output
 ```
-
+[Epoch 0]: Evaluation accuracy of trained nodes: 0.0426716
+[Epoch 0]: Evaluation accuracy of test nodes: 0.0450450
+......
 ```
